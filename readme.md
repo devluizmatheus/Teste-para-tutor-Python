@@ -6,8 +6,7 @@ Um jogo de ação estilo **top-down roguelike** desenvolvido em Python com a bib
 
 ## 🚀 Funcionalidades
 
-* **Sistema de Ondas:** 5 níveis de dificuldade progressiva com aumento de velocidade e quantidade de inimigos.
-* **IA de Perseguição:** Goblins que detectam a posição do mago e o perseguem continuamente.
+* **Sistema de Ondas:** 5 níveis de dificuldade progressiva com aumento de velocidade e quantidade de inimigos..
 * **Combate Animado:** Sistema de ataque com bolas de fogo sincronizadas com a animação do personagem.
 * **Animações Completas:** Estados de *Idle*, *Walk*, *Attack*, *Hurt* e *Death* para o herói e inimigos.
 
